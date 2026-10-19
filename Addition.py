@@ -1,5 +1,5 @@
 # Simple addition of two numbers
-num1 = 25
+num1 = 20
 num2 = 25
 
 # Calculate sum
